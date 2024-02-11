@@ -1,0 +1,16 @@
+8 Hours Video
+Node basics
+
+
+What,how,why (export & require ) keywords
+global vs shared variable or function exports
+Two syntaxes of exporting inline & multiline
+Built in Modules  OS,PATH,FS,HTTP
+OS : sep,path,resolve i.e absolute
+fs : ReadFile , WriteFile , Sync , callback i.e perform in order
+HTTP : Create WebServer , responding in different ways for different url using if , else if , else
+NPM : npmjs.com gives
+
+install 
+npm init -y for default i.e y~yes
+npm i package_name to install 
